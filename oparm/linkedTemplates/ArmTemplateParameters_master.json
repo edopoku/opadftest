@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "oparm"
 		},
+		"AzureBlobStoragegithu_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
